@@ -6,6 +6,6 @@
 - 💞️ I’m looking to collaborate on osu! (nah, jk).
 
 <!---
-lulubumps/lulubumps is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+lulubumps/lulubumps is a ✨ special ✨ repository because its `README.md` (this file) appears in my GitHub profile.
+If you get to read this, I love you very much.
 --->
