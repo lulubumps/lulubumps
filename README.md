@@ -7,7 +7,7 @@
 
 <!---
 lulubumps/lulubumps is a ✨ special ✨ repository because its `README.md` (this file) appears in my GitHub profile.
-If you get to read this, I love you very much.
+If you get to read this, I love you so much.
 --->
 
 # 💻 Tech Stack:
