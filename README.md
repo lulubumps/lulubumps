@@ -13,3 +13,5 @@ If you get to read this, I love you so much.
 
 # 🌐 Socials:
 ![Twitch Status](https://img.shields.io/twitch/status/lulubumps) ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCnkBduqRctDsscZPxOShv4w) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/Lulubumps#5961) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://cl.linkedin.com/in/luciano-sanchez) 
+
+[![](https://visitcount.itsvg.in/api?id=lulubumps&label=Profile%20Views&color=11&icon=0&pretty=true)](https://visitcount.itsvg.in)
