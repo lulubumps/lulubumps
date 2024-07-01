@@ -9,9 +9,7 @@ If you get to read this, I love you so much.
 --->
 
 # 💻 Tech Stack:
-![Adobe Audition](https://img.shields.io/badge/adobe%20audition-%239999FF?style=for-the-badge&logo=adobeaudition&logoColor=%23FFFFFF)
-
-
+![Adobe Audition](https://img.shields.io/badge/adobe%20audition-%239999FF?style=for-the-badge&logo=adobeaudition&logoColor=%23FFFFFF) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=%23FFFFFF) ![Adobe Lightroom](https://img.shields.io/badge/adobe%20lightroom-%2331A8FF?style=for-the-badge&logo=adobelightroom&logoColor=%23FFFFFF)
 
 
 # 🌐 Socials:
