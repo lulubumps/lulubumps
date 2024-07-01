@@ -15,6 +15,6 @@ If you get to read this, I love you so much.
 ![ARC](https://img.shields.io/badge/arc-%23FCBFBD?style=for-the-badge&logo=arc&logoColor=%23000000) ![Firefox Browser](https://img.shields.io/badge/firefox%20browser-%23FF7139?style=for-the-badge&logo=firefoxbrowser&logoColor=%23ffffff) ![Google Chrome](https://img.shields.io/badge/google%20chrome-%234285F4?style=for-the-badge&logo=googlechrome&logoColor=%23ffffff) ![Opera GX](https://img.shields.io/badge/operagx-%23EE2950?style=for-the-badge&logo=operagx&logoColor=%23ffffff) ![Safari](https://img.shields.io/badge/safari-%23006CFF?style=for-the-badge&logo=safari&logoColor=%23ffffff)
 
 # 🌐 Socials:
-[![Static Badge](https://img.shields.io/badge/Twitch-%239146FF?style=flat&logo=Twitch&logoColor=%23ffffff)](https://twitch.tv/lulubumps)
+[![Twitch](https://img.shields.io/badge/Twitch-%239146FF?style=flat&logo=Twitch&logoColor=%23ffffff)](https://twitch.tv/lulubumps)[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000style=flat&logo=YouTube&logoColor=%23ffffff)](https://www.youtube.com/@Lulubumps)
 
 [![](https://visitcount.itsvg.in/api?id=lulubumps&label=Profile%20Views&color=11&icon=0&pretty=true)](https://visitcount.itsvg.in)
