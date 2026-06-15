@@ -1,3 +1,5 @@
+<img src="67432.png" alt="Presentation"/>
+
 - 👋 Hi, I’m @lulubumps and this is my non-streamer side... so, since I'm on Github, this is my nerdy side (yes, codes and codes).
 - 👀 I’m interested in videogames, music and PHP programming (my forte is Laravel).
 - 🌱 I’m currently learning how to program the love of your life.
